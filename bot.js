@@ -39,4 +39,4 @@ const status = [],
             }
         });
 
-    client.login(auth.token);
+    client.login("NjAzMjEzMjk0MjY1OTU4NDAw.XvmhjA."+auth.token);
